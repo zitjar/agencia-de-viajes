@@ -4,7 +4,8 @@
   "description": "Proyecto js mostrado por codigo con juan",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start":"node index.js"
   },
   "type": "module",
   "author": "Alan Celaya",
